@@ -27,22 +27,6 @@ h2 {
     align-content: auto;
 }
 
-h3 {
-    font-size: 30px;
-    text-align: center;
-    align-content: center;
-    width: 0 auto;
-    margin: 0 auto;
-}
-
-h4 {
-    font-size: 12px;
-    text-align: left;
-    width: 0 auto;
-    margin: 0 auto;
-    align-content: auto;
-}
-
 * {
     box-sizing: border-box;
 }
